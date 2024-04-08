@@ -1,0 +1,20 @@
+[workspace.package]
+name = "probe-rs-deprecated-binaries"
+version = "1.0.0"
+edition = "2021"
+description = "Deprecated binaries for the probe-rs project."
+authors = [
+    "Noah Hüsser <yatekii@yatekii.ch>",
+    "Dominik Boehi <dominik.boehi@gmail.ch>",
+    "Jack Noppe <noppej@hotmail.com>",
+]
+documentation = "https://docs.rs/probe-rs/"
+homepage = "https://github.com/probe-rs/probe-rs"
+repository = "https://github.com/probe-rs/probe-rs"
+readme = "README.md"
+license = "Unlicense"
+categories = ["embedded", "hardware-support", "development-tools::debugging"]
+keywords = ["embedded"]
+
+[workspace]
+members = ["cargo-embed", "cargo-flash", "probe-rs-debugger"]
