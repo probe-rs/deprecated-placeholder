@@ -7,7 +7,6 @@ documentation = "https://docs.rs/probe-rs/"
 homepage = "https://github.com/probe-rs/probe-rs"
 repository = "https://github.com/probe-rs/probe-rs"
 readme = "README.md"
-license = "Unlicense"
 categories = ["embedded", "hardware-support", "development-tools::debugging"]
 keywords = ["embedded"]
 license = "MIT OR Apache-2.0"

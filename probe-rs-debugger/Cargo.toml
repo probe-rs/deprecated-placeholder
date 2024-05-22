@@ -3,7 +3,6 @@ name = "probe-rs-debugger"
 version.workspace = true
 edition.workspace = true
 description.workspace = true
-authors.workspace = true
 documentation.workspace = true
 homepage.workspace = true
 repository.workspace = true
