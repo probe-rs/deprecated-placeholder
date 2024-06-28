@@ -1,6 +1,6 @@
 [workspace.package]
 name = "probe-rs-deprecated-binaries"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Deprecated binaries for the probe-rs project."
 documentation = "https://docs.rs/probe-rs/"
