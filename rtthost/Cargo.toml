@@ -1,0 +1,15 @@
+[package]
+name = "rtthost"
+version.workspace = true
+edition.workspace = true
+description.workspace = true
+documentation.workspace = true
+homepage.workspace = true
+repository.workspace = true
+readme.workspace = true
+license.workspace = true
+categories.workspace = true
+keywords.workspace = true
+
+[badges]
+maintenance = { status = "deprecated" }
