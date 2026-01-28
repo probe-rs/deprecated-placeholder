@@ -12,4 +12,4 @@ keywords = ["embedded"]
 license = "MIT OR Apache-2.0"
 
 [workspace]
-members = ["cargo-embed", "cargo-flash", "probe-rs-debugger", "probe-rs-cli"]
+members = ["cargo-embed", "cargo-flash", "probe-rs-debugger", "probe-rs-cli", "rtthost"]
